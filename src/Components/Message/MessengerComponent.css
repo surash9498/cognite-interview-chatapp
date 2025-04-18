@@ -1,0 +1,20 @@
+.chatBox {
+    display: flex;
+    flex-grow: 1;
+    overflow: auto;
+    padding: 2;
+    flex-direction: column-reverse;
+    align-items: flex-end
+}
+
+.chatBoxMain {
+    height: 100vh;
+    display: flex;
+    flex-direction: column
+}
+
+.inputBox {
+    display: flex;
+    align-items: center;
+    padding: 10px
+}

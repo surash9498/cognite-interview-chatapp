@@ -1,0 +1,11 @@
+.messgengerLayout {
+    border-right: 1px solid black;
+    height: 100vh;
+    padding: 5px
+}
+
+.messageLayout {
+    border-right: 1px solid black;
+    height: 90vh;
+    padding: 5px
+}

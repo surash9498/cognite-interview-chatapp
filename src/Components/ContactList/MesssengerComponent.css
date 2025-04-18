@@ -1,0 +1,7 @@
+.contactName {
+    padding-left: 10px;
+}
+
+.contact:hover {
+    border-bottom: 2px solid rgb(84, 206, 84);
+}
